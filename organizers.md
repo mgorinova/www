@@ -1,6 +1,9 @@
-# Differentiable programming
+---
+layout: page
+title: Organizers
+---
 
-### Organizers
+### Organizing committee
 
 * **Assefaw Gebremedhin** is an associate professor in the School of Electrical Engineering and Computer Science at Washington State University (WSU), where he leads the Scalable Algorithms for Data Science lab. His current research interests include: data science and AI, combinatorial scientific computing (CSC), high-performance computing, pervasive computing, and applications in energy systems, cybersecurity, and healthcare. In 2016, he received a National Science Foundation CAREER award for work on fast and scalable combinatorial algorithms for data analytics. His contribution to CSC includes algorithms and software tools for exploiting sparsity in derivative computation via automatic differentiation. He has served as co-chair of the SIAM Workshop on Combinatorial Scientific Computing in 2016, as mini-symposia organizer in numerous SIAM conferences, and routinely serves on program committees of major conferences, including the WEB Conference (formerly WWW), SIAM Data Mining, IPDPS, HiPC, and ACM BCB. He recently (2020) organized a Virtual AI Mini-Summit at WSU that featured speakers from PNNL, Microsoft Research and WSU on wide-ranging topics in AI and applications in science and engineering. 
 
