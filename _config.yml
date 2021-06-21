@@ -1,6 +1,6 @@
 theme: jekyll-agency
 
-baseurl: ""
+baseurl: "www"
 
 title:  
 locale: "en-US"
