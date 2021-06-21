@@ -1,1 +1,6 @@
-theme: jekyll-theme-tactile
+theme: jekyll-agency
+
+baseurl: ""
+
+title:  
+locale: "en-US"
