@@ -1,5 +1,7 @@
-# Differentiable programming
-
+---
+layout: page
+title: Home
+---
 
 ### Workshop Overview
 
