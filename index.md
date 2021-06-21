@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+---
+layout: page
+title: Home
+---
 
-You can use the [editor on GitHub](https://github.com/DiffProgramming/www/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Workshop Overview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Differentiable programming allows for automatically computing derivatives of functions within a high-level language. It has become increasingly popular within the machine learning (ML) community: differentiable programming has been used within backpropagation of neural networks, probabilistic programming, and Bayesian inference. Fundamentally, differentiable programming frameworks empower machine learning and its applications: the availability of efficient and composable automatic differentiation (AD) tools has led to advances in optimization, differentiable simulators, engineering, and science. While AD tools have greatly increased the productivity of ML scientists and practitioners, many problems remain unsolved. Crucially, there is little communication between the broad group of AD users, the programming languages researchers, and the differentiable programming developers, resulting in them working in isolation.
 
-### Markdown
+We propose a Differentiable Programming workshop as a forum to narrow the gaps between differentiable and probabilistic languages design, efficient automatic differentiation engines and higher-level applications of differentiable programming. We hope this workshop will harness a closer collaboration between language designers and domain scientists by bringing together a diverse part of the differentiable programming community including people working on core automatic differentiation tools, higher level frameworks that rely upon AD (such as probabilistic programming and differentiable simulators), and applications that use differentiable programs to solve scientific problems.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The explicit goals of the workshop are to:
+* Foster closer collaboration and synergies between the individual communities and to seek to improve the gap between differentiable programming practice and implementation;
+* Evaluate the merits of differentiable design constructs and the impact they have on the algorithm design space. Discuss what development and debugging challenges users face and how these can be resolved to allow for a more productive differentiable programming process;
+* Highlight differentiable techniques of individual domains, and the potential they hold for other fields.
 
-```markdown
-Syntax highlighted code block
+### Scope
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DiffProgramming/www/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+List of topics:
+* foo
+* goo

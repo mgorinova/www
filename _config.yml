@@ -1,1 +1,6 @@
-theme: jekyll-theme-tactile
+theme: jekyll-agency
+
+baseurl: "www"
+
+title: Differentiable Programming
+locale: "en-US"
