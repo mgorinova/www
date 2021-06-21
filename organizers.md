@@ -7,7 +7,7 @@ title: Organizers
 
 <br/>
 
-![image](/images/assefaw-gebremedhin.png){:style="float: left; margin-right: 30px; margin-bottom: 110px; margin-top: 5px; width: 235px"}
+![image](/images/assefaw-gebremedhin.jpg){:style="float: left; margin-right: 30px; margin-bottom: 110px; margin-top: 5px; width: 235px"}
 #### **Assefaw Gebremedhin** 
 Assefaw is an associate professor in the School of Electrical Engineering and Computer Science at Washington State University (WSU), where he leads the Scalable Algorithms for Data Science lab. His current research interests include: data science and AI, combinatorial scientific computing (CSC), high-performance computing, pervasive computing, and applications in energy systems, cybersecurity, and healthcare. In 2016, he received a National Science Foundation CAREER award for work on fast and scalable combinatorial algorithms for data analytics. His contribution to CSC includes algorithms and software tools for exploiting sparsity in derivative computation via automatic differentiation. He has served as co-chair of the SIAM Workshop on Combinatorial Scientific Computing in 2016, as mini-symposia organizer in numerous SIAM conferences, and routinely serves on program committees of major conferences, including the WEB Conference (formerly WWW), SIAM Data Mining, IPDPS, HiPC, and ACM BCB. He recently (2020) organized a Virtual AI Mini-Summit at WSU that featured speakers from PNNL, Microsoft Research and WSU on wide-ranging topics in AI and applications in science and engineering. 
 
@@ -40,3 +40,5 @@ Sri is a Computer Scientist at Argonne National Laboratory. He conducts research
 ![image](/images/ludger-paehler.png){:style="float: left; margin-right: 30px; margin-bottom: 20px; margin-top: 5px; width: 235px"}
 #### **Ludger Paehler** 
 Ludger is a fourth-year PhD candidate at TU Munich with a MSc in Applied Mathematics from Imperial College London. His research interests lie at the intersection of scientific computing and machine learning with a focus on enabling uncertainty quantification and Bayesian analysis in large-scale fluid dynamics applications on high-performance computing systems. He assisted in the organization of the "Machine Learning for Physical Systems" symposium at the ECCOMAS World Congress of Computational Mechanics.
+
+<br/><br/><br/>

@@ -12,8 +12,8 @@
 en: &DEFAULT_EN
   nav:
     - title: "Home"
-      url: /index
+      url: /www/index
     - title: "Organizers"
-      url: /organizers
+      url: /www/organizers
 en-US:
   <<: *DEFAULT_EN
