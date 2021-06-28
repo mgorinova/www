@@ -19,5 +19,14 @@ The explicit goals of the workshop are to:
 * Implementation and Advancements in Automatic Differentiation Frameworks and Tools
 * Language Design, Abstractions, Program Analysis, and Transformations for Differentiable Programming
 * Advancements in Automatic Differentiation
-* Challenges and Advancements in Frameworks that use Differentiable Programming, such as Probabilistic Programming, and Differentiable Simulators
-* Scientific and Industrial Applications of Automatic Differentiation, such as Differentiable Protein-Folding, Differentiable Molecular Dynamics, ...
+* Challenges and Advancements in Frameworks that use Differentiable Programming:
+  * Probabilistic Programming
+  * Differentiable Simulators
+  * Differentiable Optimization
+  * ...
+* Scientific and Industrial Applications of Differentiable Programming:
+  * Differentiable Protein-Folding
+  * Differentiable Molecular Dynamics
+  * Differentiable Physics in Robotics
+  * End-to-end Model-Based Reinforcement Learning
+  * ...
