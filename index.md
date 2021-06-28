@@ -14,6 +14,8 @@ The explicit goals of the workshop are to:
 * Evaluate the merits of differentiable design constructs and the impact they have on the algorithm design space. Discuss what development and debugging challenges users face and how these can be resolved to allow for a more productive differentiable programming process;
 * Highlight differentiable techniques of individual domains, and the potential they hold for other fields.
 
+<br/><br/>
+
 ### Topics of Interest
 
 * Implementation and Advancements in Automatic Differentiation Frameworks and Tools
