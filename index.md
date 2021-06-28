@@ -14,8 +14,10 @@ The explicit goals of the workshop are to:
 * Evaluate the merits of differentiable design constructs and the impact they have on the algorithm design space. Discuss what development and debugging challenges users face and how these can be resolved to allow for a more productive differentiable programming process;
 * Highlight differentiable techniques of individual domains, and the potential they hold for other fields.
 
-### Scope
+### Topics of Interest
 
-List of topics:
-* foo
-* goo
+* Implementation and Advancements in Automatic Differentiation Frameworks and Tools
+* Language Design, Abstractions, Program Analysis, and Transformations for Differentiable Programming
+* Advancements in Automatic Differentiation
+* Challenges and Advancements in Frameworks that use Differentiable Programming, such as Probabilistic Programming, and Differentiable Simulators
+* Scientific and Industrial Applications of Automatic Differentiation, such as Differentiable Protein-Folding, Differentiable Molecular Dynamics, ...
