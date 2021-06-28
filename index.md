@@ -17,7 +17,11 @@ The explicit goals of the workshop are to:
 ### Topics of Interest
 
 * Implementation and Advancements in Automatic Differentiation Frameworks and Tools
-* Language Design, Abstractions, Program Analysis, and Transformations for Differentiable Programming
+* Advancements in Differentiable Programming through
+  * Language Design
+  * Abstractions
+  * Program Analysis
+  * Transformations
 * Advancements in Automatic Differentiation
 * Challenges and Advancements in Frameworks that use Differentiable Programming:
   * Probabilistic Programming
